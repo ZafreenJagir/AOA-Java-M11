@@ -48,6 +48,7 @@ public class demo
 
 ## Output:
 
+<img width="572" height="188" alt="image" src="https://github.com/user-attachments/assets/9210dbbc-d830-4cad-9661-dc05e77b1111" />
 
 
 
